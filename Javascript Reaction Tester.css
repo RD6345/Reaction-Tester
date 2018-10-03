@@ -1,0 +1,32 @@
+#shape {
+  width: 200px;
+  height: 200px;
+  background: purple;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+#yourTime {
+  margin: 10px;
+  position: relative;
+}
+#best {
+  margin: 10px;
+  position: relative;
+}
+#average {
+  margin: 10px;
+  position: relative;
+}
+#total {
+  margin: 10px;
+}
+#congratulations {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin: auto;
+  display: none;
+}
+
+}
